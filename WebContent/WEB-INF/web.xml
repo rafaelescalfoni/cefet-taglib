@@ -17,5 +17,7 @@
 		<servlet-name>alunoServlet</servlet-name>
 		<url-pattern>/alunos</url-pattern>
 	</servlet-mapping>
+	
+	
 
 </web-app>
